@@ -25,6 +25,7 @@ const users = {
  * console.log "Failure" otherwise.
  */
 
+// start the app by running "node ./app.js"
 app.listen(3030, function () {
     console.log('app listening on port 3030');
 });
